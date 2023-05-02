@@ -1,0 +1,20 @@
+* {
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f79204;
+
+
+}
+
+#box {
+    background-color: #fff;
+    border-radius: 14px;
+    font-weight: 900;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+
+}

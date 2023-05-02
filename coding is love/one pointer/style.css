@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(234, 161, 4, 0.867);
+
+}
+ #box {
+    background-color: rgb(4, 238, 164);
+    font-weight: 800;
+    border-radius: 14px;
+    cursor: pointer;
+    font-size: 50px;
+
+ }
